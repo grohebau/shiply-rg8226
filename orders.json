@@ -28,10 +28,10 @@
     "orderDate": "22.12.2025",
     "deliveryDate": "31.12.2025",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Halenseestraße 51",
+      "postal_code": "14055",
+      "city": "Berlin",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
