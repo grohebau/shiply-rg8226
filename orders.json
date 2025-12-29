@@ -1,10 +1,10 @@
 {
   "S86015": {
-    "status": "Warten auf Zahlung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Steffen Meier, Am Brink 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Alexander Nagengast, Anna-Leite 19, 91365 Weilersbach, Deutschland",
-    "price": "10.185 €",
+    "price": "10.185 € - Zahlung unvollständig",
     "description": "Hersteller: Aprilia<br>Typ: RSV4 RR-RF<br>Fahrgestelnummer: ZD4KE0007HS000270<br>Erstzulassung: 09/2017<br>KM laut Vorbesitzer: 3.133 km<br>Leistung: 148 kW (201 PS)<br>Hubraum: 999 cm³<br>Farbe: Silber<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
     "address": "Alexander Nagengast<br>Anna-Leite 19<br>91365 Weilersbach<br>Deutschland<br>Telefon: +49 160 90105447",
     "documents": [
